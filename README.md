@@ -1,4 +1,7 @@
-# ML Data Asset Registry
+# ML Data Asset Catalog
 
-This repository hosts the ML platform data asset registry used for governance audits.
-See `registry/datasets_registry.csv` for the registered datasets.
+This repository contains the ML Data Asset Catalog (`catalog.json`) maintained by the Data Platform Team.
+
+Each entry records the Hub ID of a published dataset or model together with the license we believe applies.
+
+See the open issue for the current provenance and licensing audit request.
