@@ -1,0 +1,7 @@
+dataset_id,documented_license,documented_language,criticality,status
+rajpurkar/squad,cc-by-sa-4.0,en,critical,active
+stanfordnlp/imdb,apache-2.0,en,critical,active
+fancyzhx/ag_news,cc-by-4.0,en,critical,active
+abisee/cnn_dailymail,apache-2.0,en,standard,active
+dair-ai/emotion,other,en,standard,active
+cornell-movie-review-data/rotten_tomatoes,mit,fr,standard,active
